@@ -1,0 +1,15 @@
+#dancas{
+	color: #ffd700 ;
+}
+
+body {
+    background-image: url("1.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#gallery{
+      padding: 10px 5px 30px 5px;
+      background: #D3AF8E;
+      border: solid 1px black;
+}
