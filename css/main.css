@@ -7,6 +7,14 @@
 	
 }
 
+.container{
+
+	position: relative;
+    left: 20px;
+    right: 20px;
+
+}
+
 .social-icon{
 	height: 20px;
 	width: 20px;
